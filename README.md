@@ -129,7 +129,7 @@ CREATE TABLE matricula_turma (
 );
 
 -- ========================
--- TABELA NOTA (corrigida)
+-- TABELA NOTA
 -- ========================
 CREATE TABLE tbl_nota (
     id_nota INT PRIMARY KEY AUTO_INCREMENT,
