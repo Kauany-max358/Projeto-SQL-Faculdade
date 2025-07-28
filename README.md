@@ -1,5 +1,5 @@
 -- Criação do banco de dados
-CREATE DATABASE IF NOT EXISTS sistema_academico;
+CREATE DATABASE sistema_academico;
 USE sistema_academico;
 
 -- ========================
